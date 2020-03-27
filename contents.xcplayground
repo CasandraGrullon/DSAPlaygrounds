@@ -2,6 +2,13 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Stacks'/>
-        <page name='Untitled Page'/>
+        <page name='Queues'/>
+        <page name='LinkedList'/>
+        <page name='BinaryTree'/>
+        <page name='BinarySearch'/>
+        <page name='BubbleSort'/>
+        <page name='InsertionSort'/>
+        <page name='QuickSort'/>
+        <page name='MergeSort'/>
     </pages>
 </playground>
